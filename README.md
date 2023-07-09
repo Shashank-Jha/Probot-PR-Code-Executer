@@ -11,6 +11,8 @@ The computed output of the code will be commented automatically by the bot as a 
 
 Demo video: [shoot here🚀](https://drive.google.com/file/d/1A4JWbMMGdXjtHFRT95-DUr1zlXG6x0aP/view?usp=sharing)
 
+Summary Report : [Read Here 📖](https://docs.google.com/document/d/1Z9Cb5bnR5l4IHuZz6Yt-vD9Nm1Y-glkkI3TB099C-QE/edit?usp=sharing);
+
 ## Technologies used
     1. Probot - Node.js (Used to create the Github App Bot)
     2. Judge0API - Used to compile the code
